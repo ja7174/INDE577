@@ -17,12 +17,4 @@ Data were collected and made available by Dr. Kristen Gorman and the Palmer Stat
 
 ### Task
 
-Given one or more features of a Gentoo penguin,
-
-1a. estimate it's body mass
-1b. choose which feature best estimates body mass
-1c. investigate ideal rate for alpha (the learning rate)
-1d. identify and observe limitations
-
-
 ### Method
