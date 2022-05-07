@@ -5,22 +5,18 @@
 Data were collected and made available by Dr. Kristen Gorman and the Palmer Station, Antarctica LTER, a member of the Long Term Ecological Research Network. The datasets are available for download and use [here](https://www.kaggle.com/datasets/parulpandey/palmer-archipelago-antarctica-penguin-data). 
 
 ### Libraries Used
-[Pandas](https://pandas.pydata.org/) 
-
-[Matplotlib](https://matplotlib.org/) 
-
-[Numpy](https://numpy.org/) 
-
-[Seaborn](https://seaborn.pydata.org/) 
-
-[Scikit-learn](https://scikit-learn.org/) 
+[Pandas](https://pandas.pydata.org/) <br>
+[Matplotlib](https://matplotlib.org/) <br>
+[Numpy](https://numpy.org/) <br>
+[Seaborn](https://seaborn.pydata.org/) <br>
+[Scikit-learn](https://scikit-learn.org/) <br>
 
 ### Task
 
 Given the bill length and bill depth of a pengiun, classify
 
-1a. whether the species is Adelie or Gentoo \\
-1b. whether the species is Gentoo or Chinstrao
+1a. whether the species is Adelie or Gentoo <br>
+1b. whether the species is Gentoo or Chinstrao <br>
 
 ### Method
 
