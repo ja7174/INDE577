@@ -15,10 +15,21 @@ Data were collected and made available by Dr. Kristen Gorman and the Palmer Stat
 
 Given one or more features of a penguin,
 
-1a. <br>
-1b. <br>
-
-
+1a. compare and visualize the performance of a random forest on Adelie vs. Chinstrap classification <br>
+1b. compare and visualize the performance of a Bagging on Adelie vs. Chinstrap classification <br>
+1c. compare and visualize the performance of a ADA Boosting on Adelie vs. Chinstrap classification <br>
+1d. compare and visualize the performance of other classifiers on Adelie vs. Chinstrap classification <br>
 
 ### Method
+
+#### Random Forest
+
+#### Bagging
+
+#### ADA Boosting
+
+#### SVC
+
+
+
 
