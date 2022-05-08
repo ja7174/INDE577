@@ -21,3 +21,4 @@ Given one or more features of a penguin,
 
 ### Method
 
+The Multilayer Perceptron, or MLP, is an artificial neural network composed of at least three perceptron layers - an input layer, a hidden layer, and an output layer. While the input and output layers are only one level deep, the hidden layer can contain any number of layers. A MLP containing a "deep" stack of hidden layers is called a Deep Neural Network. A deep stack is a succession of hidden layers where the output of one feeds the input of the next. MLPs can also have wide layers where the input layer, for example, feeds hidden layer 1 and the output layer. This is a wide network because it connects all or part of the inputs directly to the output layer. This allows the network to learn both deep patterns and simple rules.
