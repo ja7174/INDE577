@@ -13,12 +13,11 @@ Data were collected and made available by Dr. Kristen Gorman and the Palmer Stat
 
 ### Task
 
-Given one or more features of a penguin,
+Given two features of a penguin and using the K-nearest neighbours algorithm
 
-1a. <br>
-1b. <br>
-
-
+1a. classify a data point as either Adelie or Chinstrap<br>
+1b. analyze how many neighbours give the lowest error<br>
+1c. compare the performance of KNN with other classifier like logistic and MLP <br>
 
 ### Method
 
