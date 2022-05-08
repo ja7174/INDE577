@@ -1,2 +1,4 @@
 # Data Science & Machine Learning 
-# Perceptron Model
+
+Author - Javeria Ahmed 
+Computational & Applied Math 
