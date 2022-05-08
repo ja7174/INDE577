@@ -21,3 +21,8 @@ Given two features of a penguin and using the K-nearest neighbours algorithm
 
 ### Method
 
+The K-Nearest Neighbors (KNN) algorithm is a machine learning model in which a specified number of neighbors (k) are calculated to determine the classification of the feature vector in question. KNN can be use for both classification and regression tasks. 
+
+In classification, a vote is taken amongst the neighbors, and the classification with the highest vote wins. In regression, the average of the k-neighbors is taken as the predicted value of the feature vector. In the case where k=1, the classification or value of the closest neighbor becomes the classification or value of the feature vector.
+
+Neighbors can also be assigned higher weights the closer they are to the datapoints to perform weighted neighbor classification. 
